@@ -1,0 +1,58 @@
+.card { 
+    background-color: grey;
+    color: white;
+}
+
+.carousel-inner {
+ align-content: center;
+}
+
+.p {
+    font-style: oblique;
+}
+.banner {
+    text-align: center;
+    color: black;
+}
+.card {
+    margin: 0 10px;
+}
+
+.form {
+    margin: 40px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.jarak {
+    margin-top: 30px;
+}
+
+.about {
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    background-color: blue;
+}
+
+.footer {
+    background: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: fantasy, monospace
+}
+
+.lead {
+    text-align: justify;
+    color: black;
+
+}
+
+.lead1 {
+    text-align: justify;
+}
+
+.card-text {
+    text-align: justify; 
+}
